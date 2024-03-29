@@ -6,7 +6,7 @@ export default function Cart(){
 
     return (
         <div>
-          <p>LastName checking with issue and branch changes:</p>
+          <p>LastName checking with issue and branch changes:...</p>
           <TextField label="First Name" variant="outlined" /> {/* Use TextField component */}
         </div>
       );
