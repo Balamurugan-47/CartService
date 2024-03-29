@@ -6,7 +6,7 @@ export default function Cart(){
 
     return (
         <div>
-          <p>LastName:</p>
+          <p>LastName checking:</p>
           <TextField label="First Name" variant="outlined" /> {/* Use TextField component */}
         </div>
       );
